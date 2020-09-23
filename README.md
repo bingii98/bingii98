@@ -1,3 +1,3 @@
-<img src="https://cdn.dribbble.com/users/1338391/screenshots/6903781/car-800.gif">
+<img src="https://cdn.dribbble.com/users/1338391/screenshots/6903781/car-800.gif" width='100%'>
 
 Hi there, ...
